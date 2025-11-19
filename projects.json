@@ -22,5 +22,11 @@
     "title": "SunoNa",
     "description": "Unpublished protoype of a local ride-hailing service",
     "image_url": "a4d37a02-4c69-48b2-966e-1cc81c9f4849.png"
+  },
+  {
+    "id": 5,
+    "title": "Project Anatomy",
+    "description": "A 2d platformer game developed during SHS with the game's theme relating to Health.",
+    "image_url": "662788ca-1bb3-498a-8255-db57e2a9043d.png"
   }
 ]
