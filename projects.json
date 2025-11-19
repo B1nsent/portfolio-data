@@ -10,5 +10,11 @@
     "title": "Content Management System",
     "description": "Basic ahh CMS for this Portfolio",
     "image_url": "3f4aaa78-bc22-4b88-9bea-4a1bbb9a166d.png"
+  },
+  {
+    "id": 3,
+    "title": "Barangay Loob Website",
+    "description": "Undeployed and unfinished website supposedly to be bundled with eLOOB:BMS",
+    "image_url": "d1d2f387-bf68-4e4b-a004-89aa8d1eb983.png"
   }
 ]
