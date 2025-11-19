@@ -28,5 +28,11 @@
     "title": "Project Anatomy",
     "description": "A 2d platformer game developed during SHS with the game's theme relating to Health.",
     "image_url": "662788ca-1bb3-498a-8255-db57e2a9043d.png"
+  },
+  {
+    "id": 6,
+    "title": "Drag and Drop Portfolio Site",
+    "description": "Simple portfolio website using Google Sites",
+    "image_url": "8f38c2ca-7790-4dac-911d-a85ec629c1f0.png"
   }
 ]
